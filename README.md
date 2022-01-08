@@ -1,4 +1,4 @@
-#Colour Palette Generator :artist:
+# Colour Palette Generator :artist:
 
 ![Colour Choice](https://images.unsplash.com/photo-1600832331197-ad575931911b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
@@ -28,7 +28,7 @@ I want it to be easy to use and navigate with a click mechanism to choose a part
 
 :purple_circle: Happy Coding
 
-> ###Colour is a Power Which Directly influences the Soul -- Wassily kandinsky --
+> ### Colour is a Power Which Directly influences the Soul -- Wassily kandinsky --
 
 ![Colour Combination](https://images.unsplash.com/photo-1614194076674-0598e6dd5703?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1371&q=80)
 
