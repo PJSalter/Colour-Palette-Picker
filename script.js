@@ -1,0 +1,1 @@
+// This js page will include functionality and Dom manipulation
