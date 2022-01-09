@@ -13,5 +13,5 @@ body {
 /* targetting the main palette container aswell as all of the elements within this container with setting box-sizing as border box, this is easier to set this within the palette container */
 .art-palette
 .art-palette * {
-
+   box-sizing: border-box;
 }
