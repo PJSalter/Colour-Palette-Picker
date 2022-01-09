@@ -18,3 +18,10 @@ body {
 
 /* then targetting the art-palette container individually */
 /* this will include the font styling and displaying as grid with a gap and the setting of grid columns */
+
+.art-palette{
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid
+    gap: 
+    grid-template-columns: 
+}
