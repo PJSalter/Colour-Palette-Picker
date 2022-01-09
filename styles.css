@@ -15,3 +15,5 @@ body {
 .art-palette * {
    box-sizing: border-box;
 }
+
+/* then targetting the art-palette container individually */
