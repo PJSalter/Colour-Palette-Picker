@@ -30,7 +30,7 @@ body {
 .show-palette-colour{
     /* this will really showcase the colour with a decent height */
     height: 150px;
-    background-color: darkmagenta;
+    background-color: darkmagenta; 
     /* to position relative so that the text will be absolute */
     position: relative;
 }
@@ -49,6 +49,6 @@ body {
     color: #aaf0d1;
 }
 
-color-input{
+.color-input{
     width: 100%;
 }
