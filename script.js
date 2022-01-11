@@ -54,7 +54,7 @@ function makingAComponent(color, text){
 
 const codeColorContainter = document.querySelector(".palette-art");
 
-fetch("pjs-color-data/pjs-color-Info.json").then(response => {
+fetch("data/color.json").then(response => {
    return response.json()
 }).then(colorChoices => {
     for (const {text, color} of colorChoices) {
