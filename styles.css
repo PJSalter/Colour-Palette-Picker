@@ -11,15 +11,15 @@ body {
 /* grid gap will be 15 px in future */
 
 /* targetting the main palette container aswell as all of the elements within this container with setting box-sizing as border box, this is easier to set this within the palette container */
-.art-palette
-.art-palette * {
+.palette-art
+.palette-art * {
    box-sizing: border-box;
 }
 
 /* then targetting the art-palette container individually */
 /* this will include the font styling and displaying as grid with a gap and the setting of grid columns */
 
-.art-palette{
+.palette-art{
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
     gap: 15px;
@@ -27,7 +27,7 @@ body {
 }
 
 /* styling for colour box to appear */
-.show-palette-colour{
+.palette-show-colour{
     /* this will really showcase the colour with a decent height */
     height: 150px;
     background-color: darkmagenta; 
@@ -49,6 +49,6 @@ body {
     color: #aaf0d1;
 }
 
-.color-input{
+.palette-color-input{
     width: 100%;
 }
