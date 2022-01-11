@@ -25,3 +25,12 @@ body {
     gap: 15px;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
+
+/* styling for colour box to appear */
+.show-palette-colour{
+    /* this will really showcase the colour with a decent height */
+    height: 150px;
+    background-color: darkmagenta;
+    /* to position relative so that the text will be absolute */
+    position: relative;
+}
