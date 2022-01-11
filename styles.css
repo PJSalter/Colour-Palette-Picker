@@ -34,3 +34,13 @@ body {
     /* to position relative so that the text will be absolute */
     position: relative;
 }
+
+/* now to styling up the main text above the colour by targetting the description class */
+
+.palette-text{
+    padding: 10px;
+    position: absolute 
+    /* left zero and right zero so that it gets positioned on the bottom left corner of the colour palette element */
+    left: 0;
+    bottom: 0;
+}
