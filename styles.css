@@ -27,10 +27,10 @@ body {
 }
 
 /* styling for colour box to appear */
-.palette-show-colour{
+.palette-show-color{
     /* this will really showcase the colour with a decent height */
     height: 150px;
-    background-color: darkmagenta; 
+    /* background-color: darkmagenta; */
     /* to position relative so that the text will be absolute */
     position: relative;
 }
