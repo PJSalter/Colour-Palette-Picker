@@ -1,5 +1,62 @@
-[
+ [
     {
-        
+        "text": "Colour One",
+        "color": "#FF5733"
+    },
+    {
+        "text": "Colour Two",
+        "color": "#9A2A03"
+    },
+    {
+        "text": "Colour Three",
+        "color": "#B25E41"
+    },
+    {
+        "text": "Colour Four",
+        "color": "#C29484"
+    },
+    {
+        "text": "Colour Five",
+        "color": "#D0E100"
+    },
+    {
+        "text": "Colour Six",
+        "color": "#4D5306"
+    },
+    {
+        "text": "Colour Seven",
+        "color": "#9DA359"
+    },
+    {
+        "text": "Colour Eight",
+        "color": "#DFE3B5"
+    },
+    {
+        "text": "Colour Nine",
+        "color": "#41E600"
+    },
+    {
+        "text": "Colour Ten",
+        "color": "#216606"
+    },
+    {
+        "text": "Colour Eleven",
+        "color": "#596F50"
+    },
+    {
+        "text": "Colour Twelve",
+        "color": "#B4EE9C"
+    },
+    {
+        "text": "Colour Thirteen",
+        "color": "#9CEED7"
+    },
+    {
+        "text": "Colour Fourteen",
+        "color": "#0AB786"
+    },
+    {
+        "text": "Colour Fifteen",
+        "color": "#134A3B"
     }
 ]
