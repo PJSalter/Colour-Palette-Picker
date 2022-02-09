@@ -56,6 +56,10 @@ let codeColorContainter = document.querySelector(".palette-art");
 
 //const getColor = () => {
 
+//from testing this in the browser the colors do not appear because json would not pick up the data from a self local storage file
+// Although when I load this up from the live server then the colors appear on the page as it needs a server.
+// figuring this out has been a great learning experience, the fetch still works even though it is not using an API. and using a json file that I created.
+
 fetch('./pjsColorData/color.json', {
      mode: "no-cors"
      })
