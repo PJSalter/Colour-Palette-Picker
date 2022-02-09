@@ -19,12 +19,18 @@ I want it to be easy to use and navigate with a click mechanism to choose a part
 :placard: Tasks that need completing
 
 - [x] Built HTML Page
-- [ ] Built CSS Page
-- [ ] Built JavaScript functionality
-- [ ] All code will be displayed and placed on GitHub
+- [x] Built CSS Page
+- [x] json file which contains hex code colours.
+- [x] Built JavaScript functionality
+- [x] contain fetch to attach my json file with promises and catch.
+- [x] All code will be displayed and placed on GitHub
 - [ ] will be diployed on Git Pages
 - [ ] Will include a functionality that allows the User to choose Several Colours that relate to shades
 - [ ] smooth clickable option for User to change the colours
+
+## The current view from Live Server:
+
+<img width="468" alt="screen-view-of-color-palette" src="https://user-images.githubusercontent.com/45575016/153260064-72c1bf4f-cf87-4d6a-a9c6-3afb180a355f.png">
 
 :purple_circle: Happy Coding
 
