@@ -52,13 +52,36 @@ function makingAComponent(color, text){
 
 }
 
-const codeColorContainter = document.querySelector(".palette-art");
+let codeColorContainter = document.querySelector(".palette-art");
 
-fetch("data/color.json").then(response => {
-   return response.json()
-}).then(colorChoices => {
-    for (const {text, color} of colorChoices) {
-        console.log(text, color);
+//const getColor = () => {
+
+fetch('./pjsColorData/color.json', {
+     mode: "no-cors"
+     })
+ .then(response => {
+     console.log(response)
+     if(!response.ok) throw new Error(response.status);
+     return response.json();
+ })
+ //.then(data => console.log(data))
+ .then(data => {
+   // console.log(colorChoices)
+     for (const {text, color} of data) {
+    console.log(text, color)
+     //}
     codeColorContainter.appendChild(makingAComponent(color, text));
-    }
-})
+     }
+ })
+ .catch(error => console.error(error))
+ //.then((json) => console.log(json))
+ //.catch(error => console.error(error))
+
+//}
+/*
+findEffect(() => {
+    getColor()
+}, [])
+.catch(error => console.error(error))
+
+*/
